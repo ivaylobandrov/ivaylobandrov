@@ -23,6 +23,7 @@
   - [ReactJS - React - The Complete Guide 2025 (incl. Next.js, Redux)](https://www.udemy.com/course/react-the-complete-guide-incl-redux/learn/lecture/8231756?start=0#overview)
   - [NextJS - Next.js 15 & React - The Complete Guide](https://www.udemy.com/course/nextjs-react-the-complete-guide/learn/lecture/41161466?start=0#overview)
   - [Docker - Docker & Kubernetes: The Practical Guide 2025 Edition](https://www.udemy.com/course/docker-kubernetes-the-practical-guide/?couponCode=ACCAGE0923)
+  - [Tailwind - Tailwind CSS From Scratch | Learn By Building Projects](https://www.udemy.com/course/tailwind-from-scratch/?couponCode=ACCAGE0923)
 
 <h2> 🤳 Connect with me:</h2>
 
