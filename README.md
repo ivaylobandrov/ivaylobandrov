@@ -18,7 +18,11 @@
   - [Python - Learn Python Programming Masterclass](https://www.udemy.com/course/python-the-complete-python-developer-course/?couponCode=ACCAGE0923)
   - [JavaScript - The Complete Guide 2025 (Beginner + Advanced)](https://www.udemy.com/course/javascript-the-complete-guide-2020-beginner-advanced/?couponCode=ACCAGE0923)
   - [NodeJS - The Complete Node.js Developer Course (3rd Edition)](https://www.udemy.com/course/the-complete-nodejs-developer-course-2/?couponCode=ACCAGE0923)
-]
+  - [Node JS - Advanced Concepts](https://www.udemy.com/course/advanced-node-for-developers/learn/lecture/9646826?start=0#overview)
+  - [ElasticSearch - Complete Guide to Elasticsearch](https://www.udemy.com/course/elasticsearch-complete-guide/?couponCode=ACCAGE0923)
+  - [ReactJS - React - The Complete Guide 2025 (incl. Next.js, Redux)](https://www.udemy.com/course/react-the-complete-guide-incl-redux/learn/lecture/8231756?start=0#overview)
+  - [NextJS - Next.js 15 & React - The Complete Guide](https://www.udemy.com/course/nextjs-react-the-complete-guide/learn/lecture/41161466?start=0#overview)
+  - [Docker - Docker & Kubernetes: The Practical Guide 2025 Edition](https://www.udemy.com/course/docker-kubernetes-the-practical-guide/?couponCode=ACCAGE0923)
 
 <h2> 🤳 Connect with me:</h2>
 
