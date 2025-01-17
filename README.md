@@ -2,8 +2,15 @@
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
+- <b>Python course on Udemy:</b>
+  - [Learn Python Programming Masterclass](https://www.udemy.com/course/python-the-complete-python-developer-course/?couponCode=ACCAGE0923)
 - <b>Python and Django:</b>
   - [Solar Panel Electricity Price Downloader](https://github.com/ivaylobandrov/DjangoAdvancedProjectITIDO)
+  - [Django basics course](https://github.com/ivaylobandrov/devsearch)
+  - [Django advanced features course](https://github.com/ivaylobandrov/myproject)
+  
+- <b>JavaScript course on Udemy:</b>
+  - [JavaScript - The Complete Guide 2025 (Beginner + Advanced)](https://www.udemy.com/course/javascript-the-complete-guide-2020-beginner-advanced/?couponCode=ACCAGE0923)
 - <b>Full Stack Web App (ReactJS and NodeJS)</b>
   - [Book app](https://github.com/ivaylobandrov/ITIDONodeJSReact-Project)
 - <b>NextJS</b>
