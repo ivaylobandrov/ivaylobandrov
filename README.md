@@ -3,7 +3,7 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>Python and Django:</b>
-  - [A sample project with Django](https://github.com/ivaylobandrov/DjangoAdvancedProjectITIDO)
+  - [Solar Panel Electricity Price Downloader](https://github.com/ivaylobandrov/DjangoAdvancedProjectITIDO)
 - <b>Full Stack Web App (ReactJS and NodeJS)</b>
   - [Book app](https://github.com/ivaylobandrov/ITIDONodeJSReact-Project)
 - <b>NextJS</b>
