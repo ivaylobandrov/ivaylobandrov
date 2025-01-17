@@ -1,6 +1,6 @@
 <h1>Hi, I'm Ivaylo! a Software Developer</a></h1>
 
-<h3>I'm a software developer with professional experience in back-end and front-end development. I have worked with Python (incl. Django), NextJS, ReactJS, NodeJS, FastApi, JavaScript, CSS, HTML and databases such as MySQL, POSTGRES, Firebase.
+<h3>I'm a software developer with professional experience in back-end and front-end development. I have worked with Python (incl. Django), NextJS, ReactJS, NodeJS, FastApi, JavaScript, CSS, HTML and databases such as MySQL, Postgres and Firebase. I also have experience with containerization tools like Docker.
 </h3>
 
 <h2>👨‍💻 Software Development Projects:</h2>
