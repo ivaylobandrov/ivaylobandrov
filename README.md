@@ -24,6 +24,8 @@
   - [NextJS - Next.js 15 & React - The Complete Guide](https://www.udemy.com/course/nextjs-react-the-complete-guide/learn/lecture/41161466?start=0#overview)
   - [Docker - Docker & Kubernetes: The Practical Guide 2025 Edition](https://www.udemy.com/course/docker-kubernetes-the-practical-guide/?couponCode=ACCAGE0923)
   - [Tailwind - Tailwind CSS From Scratch | Learn By Building Projects](https://www.udemy.com/course/tailwind-from-scratch/?couponCode=ACCAGE0923)
+  - [Django Advanced - Build a Backend REST API with Python & Django](https://www.udemy.com/course/django-python-advanced/?couponCode=ACCAGE0923)
+  - [Django - Django Python: Build a Full Stack Website with Features](https://www.udemy.com/course/python-django-2021-complete-course/?couponCode=ACCAGE0923)
 
 <h2> 🤳 Connect with me:</h2>
 
