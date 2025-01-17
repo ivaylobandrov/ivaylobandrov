@@ -4,13 +4,10 @@
 
 - <b>Python and Django:</b>
   - [A sample project with Django](https://github.com/ivaylobandrov/DjangoAdvancedProjectITIDO)
-- <b>Full Stack Web App (React and NodeJS)</b>
+- <b>Full Stack Web App (ReactJS and NodeJS)</b>
   - [Book app](https://github.com/ivaylobandrov/ITIDONodeJSReact-Project)
-- <b>PowerShell</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
-  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
+- <b>NextJS</b>
+  - [Online Market place](https://github.com/ivaylobandrov/OnlineMarketplaceItido)
 - <b>C# (.NET Desktop Applications)</b>
   - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
   - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
