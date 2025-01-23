@@ -3,7 +3,21 @@
 <h3>I'm a software developer with professional experience in back-end and front-end development. I have worked with Python (incl. Django), NextJS, ReactJS, NodeJS, FastApi, JavaScript, CSS, HTML and databases such as MySQL, Postgres and Firebase. I also have experience with containerization tools like Docker.
 </h3>
 
-<h2>👨‍💻 Software Development Projects:</h2>
+<h2>👨‍💻 Professional Projects:</h2>
+
+- <b>Full stack web application:</b>
+  - An innovative application designed to enable users to create and manage buildings, floors, and detailed floor plans. It provides design suggestions based on tenant preferences and requirements, delivering customised, fully furnished floor plans that can be easily adjusted using Arealize's drawing tool during tenant meetings. The application enhances users' understanding of their property portfolio by providing detailed area information, including room type distribution, fixed workstation counts, space allocation, and alerts regarding legal compliance breaches. It also features high-definition, interactive 2D and 3D models of furnished spaces, allowing users to present their buildings effectively.
+
+- <b>Full Stack Web App (ReactJS and NodeJS)</b>
+  - [Book app](https://github.com/ivaylobandrov/ITIDONodeJSReact-Project)
+
+- <b>NextJS</b>
+  - [Online Market place](https://github.com/ivaylobandrov/OnlineMarketplaceItido)
+
+- <b>NodeJS</b>
+  - [Stack app](https://github.com/ivaylobandrov/StackNodeJsApp)
+
+<h2>👨‍💻 Personal Projects:</h2>
 
 - <b>Python and Django:</b>
   - [Solar Panel Electricity Price Downloader](https://github.com/ivaylobandrov/DjangoAdvancedProjectITIDO)
