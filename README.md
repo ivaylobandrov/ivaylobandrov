@@ -13,12 +13,12 @@
 - <b>Backednd web developer (04.01.2022 - 28.07.2023):</b>
   - A robotic technology startup. The company’s vision is to create a product that would enable seamless property scans and elevate property purchases through a true-to-life online experience. My responsabilities were implementing new features for better user experience, APIs for Dashboard and Admin panel, refactoring and improving code readability, creating docstrings and fixing small bugs.
  
-  - Python, (Django), CSS3 (Bootstrap, Bootstrap Vue), Docker, Jenkins, Git (GitLab, Git Flow, BitBucket), Linux, MQTT, PostgreSQL and Web Sockets.
+  - Technologies involved: Python, (Django), CSS3 (Bootstrap, Bootstrap Vue), Docker, Jenkins, Git (GitLab, Git Flow, BitBucket), Linux, MQTT, PostgreSQL and Web Sockets.
  
 - <b>Full stack web developer (04.01.2022 - until now):</b>
   - Company's internal HR management system. My role was involved in improving the user experience like automating processes, new features, migrating application to the latests versions, writting tests and fixing small bugs.
     
-  - Python (Django, Django-rest-framework), CSS, HTML, AJAX and JavaScript.
+  - Technologies involved: Python (Django, Django-rest-framework), CSS, HTML, AJAX and JavaScript.
  
 <h2>👨‍💻 Personal Projects:</h2>
 
