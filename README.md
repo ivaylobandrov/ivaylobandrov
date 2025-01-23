@@ -10,7 +10,7 @@
   
   - Technologies involved: Python, TypeScript, Tailwind, Firebase, Node, Git (GitHub), Next JS, React, Redux toolkit and Miro.
  
-- <b>Backednd web developer (04.01.2022 - 28.07.2023):</b>
+- <b>Backend web developer (04.01.2022 - 28.07.2023):</b>
   - A robotic technology startup. The company’s vision is to create a product that would enable seamless property scans and elevate property purchases through a true-to-life online experience. My responsabilities were implementing new features for better user experience, APIs for Dashboard and Admin panel, refactoring and improving code readability, creating docstrings and fixing small bugs.
  
   - Technologies involved: Python, (Django), CSS3 (Bootstrap, Bootstrap Vue), Docker, Jenkins, Git (GitLab, Git Flow, BitBucket), Linux, MQTT, PostgreSQL and Web Sockets.
