@@ -5,17 +5,12 @@
 
 <h2>👨‍💻 Professional Projects:</h2>
 
-- <b>Full stack web application:</b>
-  - An innovative application designed to enable users to create and manage buildings, floors, and detailed floor plans. It provides design suggestions based on tenant preferences and requirements, delivering customised, fully furnished floor plans that can be easily adjusted using Arealize's drawing tool during tenant meetings. The application enhances users' understanding of their property portfolio by providing detailed area information, including room type distribution, fixed workstation counts, space allocation, and alerts regarding legal compliance breaches. It also features high-definition, interactive 2D and 3D models of furnished spaces, allowing users to present their buildings effectively.
+- <b>Full stack web developer:</b>
+  - An innovative application designed to enable users to create and manage buildings, floors, and detailed floor plans. It provides design suggestions based on tenant preferences and requirements, delivering customised, fully furnished floor plans that can be easily adjusted using client's drawing tool during tenant meetings. The application enhances users' understanding of their property portfolio by providing detailed area information, including room type distribution, fixed workstation counts, space allocation, and alerts regarding legal compliance breaches. It also features high-definition, interactive 2D and 3D models of furnished spaces, allowing users to present their buildings effectively. I was invlolved in full stack tasks covering both the frontend and the backend of the application, mostly worked on implementing new features, fixing small bugs and migrating features from old to the new application.
+ 
+- <b>Backednd web developer:</b>
+  - A robotic technology startup. The company’s vision is to create a product that would enable seamless property scans and elevate property purchases through a true-to-life online experience. My responsabilities were implementing new features for better user experience, APIs for Dashboard and Admin panel, refactoring and improving code readability, creating docstrings and fixing small bugs.
 
-- <b>Full Stack Web App (ReactJS and NodeJS)</b>
-  - [Book app](https://github.com/ivaylobandrov/ITIDONodeJSReact-Project)
-
-- <b>NextJS</b>
-  - [Online Market place](https://github.com/ivaylobandrov/OnlineMarketplaceItido)
-
-- <b>NodeJS</b>
-  - [Stack app](https://github.com/ivaylobandrov/StackNodeJsApp)
 
 <h2>👨‍💻 Personal Projects:</h2>
 
