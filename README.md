@@ -5,13 +5,15 @@
 
 <h2>👨‍💻 Professional Projects:</h2>
 
-- <b>Full stack web developer:</b>
+- <b>Full stack web developer (01.08.2023 - until now):</b>
   - An innovative application designed to enable users to create and manage buildings, floors, and detailed floor plans. It provides design suggestions based on tenant preferences and requirements, delivering customised, fully furnished floor plans that can be easily adjusted using client's drawing tool during tenant meetings. The application enhances users' understanding of their property portfolio by providing detailed area information, including room type distribution, fixed workstation counts, space allocation, and alerts regarding legal compliance breaches. It also features high-definition, interactive 2D and 3D models of furnished spaces, allowing users to present their buildings effectively. I was invlolved in full stack tasks covering both the frontend and the backend of the application, mostly worked on implementing new features, fixing small bugs and migrating features from old to the new application.
  
-- <b>Backednd web developer:</b>
+- <b>Backednd web developer (04.01.2022 - 28.07.2023):</b>
   - A robotic technology startup. The company’s vision is to create a product that would enable seamless property scans and elevate property purchases through a true-to-life online experience. My responsabilities were implementing new features for better user experience, APIs for Dashboard and Admin panel, refactoring and improving code readability, creating docstrings and fixing small bugs.
-
-
+ 
+- <b>Full stack web developer (04.01.2022 - until now):</b>
+  - Company's internal HR management system. My role was involved in improving the user experience like automating processes, new features, migrating application to the latests versions, writting tests and fixing small bugs.
+ 
 <h2>👨‍💻 Personal Projects:</h2>
 
 - <b>Python and Django:</b>
